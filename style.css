@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "Montserrat";
+    src: url(Montserrat-Regular-1.ttf);
+}
+.gradelayout{
+    font-size: large;
+    font-weight: 600;
+    font-family: "Montserrat",sans-serif;
+}
+#Sname{
+    height: 20px;
+    width: 200px;
+    border-radius: 5px;
+}
+#mathsone{
+    height: 20px;
+    width: 200px;
+    border-radius: 5px;
+}
+#mathstwo{
+    height: 20px;
+    width: 200px;
+    border-radius: 5px;
+}
+#mathsthree{
+    height: 20px;
+    width: 200px;
+    border-radius: 5px;
+}
+.button{
+    font-size: medium;
+    font-weight: 600;
+    font-family: "Montserrat",sans-serif;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: white;
+}
+.button:hover{
+    color: white;
+    background-color: black;
+}
